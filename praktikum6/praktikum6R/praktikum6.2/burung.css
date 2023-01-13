@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffcc;
+}
+
+#header {
+    background-color: #d9b38c;
+    text-align: center;
+    padding-bottom: 3px;
+}
+
+h1{
+    color: blue;
+}
+
+blockquote{
+    background-color: #ffdb4d;
+}
+
+/* .badan {
+    background-color: #ffff99;
+} */
+
+.baris{
+    text-align: center;
+}
+
+.gambar{
+    text-align: center;
+}
+
+p.B::first-letter {
+    font-size: 45px;
+    color: #66a3ff;
+}
+
+h3 {
+    color: #ff8000;
+}
+
+.promo {
+    text-align: center;
+}

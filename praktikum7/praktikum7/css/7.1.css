@@ -1,0 +1,37 @@
+.box1 {
+   background-color: #6699ff;
+   width: 20%;
+   margin-right: 5%;
+   height: 700px;
+   margin-top: 5%;
+}
+
+.box2 {
+    background-color: #cc99ff;
+    width: 20%;
+    margin-right: 5%;
+    height: 700px;
+    margin-top: 5%;
+}
+
+.box3 {
+    background-color: #ff9999;
+    width: 20%;
+    margin-right: 5%;
+    height: 700px;
+    margin-top: 5%;
+}
+
+.box4 {
+    background-color: #ffcc99;
+    width: 20%;
+    margin-right: 5%;
+    height: 700px;
+    margin-top: 5%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 5%; */
+}
